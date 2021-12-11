@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @The-Light-Man
 - 👀 I’m interested in python, c++ and 3D Graphics
 - 🌱 I’m currently learning c++
+- 😂 I certainly should find a better name
